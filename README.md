@@ -10,4 +10,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
-The code for agent is provided in dqn_agent.py. The code for neural used for learning Q function is provided in model.py. The code used for loading the environment and training the agent is embedded in python notebook Navigation.ipynb 
+1) The code for agent is provided in dqn_agent.py. 
+2) The code for neural used for learning Q function is provided in model.py. 
+3) The code used for loading the environment and training the agent is embedded in python notebook Navigation.ipynb. 
+4) Trained network parameters are saved in checkpoint.pth
