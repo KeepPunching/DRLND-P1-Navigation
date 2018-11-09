@@ -14,3 +14,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 2) The code for neural used for learning Q function is provided in model.py. 
 3) The code used for loading the environment and training the agent is embedded in python notebook Navigation.ipynb. 
 4) Trained network parameters are saved in checkpoint.pth
+
+Steps to follow for setting up envirnonment:
+
+1) Clone the DRLND Repository: Please follow the instructions in the [DRLND GitHub repository] (https://github.com/udacity/deep-reinforcement-learning#dependencies) to set up your Python environment. 
